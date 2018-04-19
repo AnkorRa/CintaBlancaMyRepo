@@ -1,0 +1,30 @@
+.col-sm{
+    background: rgba(86,61,124,.15);  
+    border: 1px solid rgba(86,61,124,.2);
+    padding: .75rem;
+}
+
+.col{
+    background: rgba(86,61,124,.15);  
+    border: 1px solid rgba(86,61,124,.2);
+    padding: .75rem;
+}
+
+.row div{
+    
+    border: 1px solid rgba(86,61,124,.2);
+   
+}
+
+.row .vacio {
+    background: white;
+    border: 1px dashed;
+}
+
+.altura160{
+    height: 160px;
+}
+
+.altura80{
+    height: 80px;
+}

@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+}
+
+nav{
+    background: dodgerblue;
+    color: rgb(201, 201, 201);
+    width: 100vw;
+
+    top: 0px;
+    height: 50px;
+    box-shadow: 3px 3px 9px;
+    padding: 5px;
+}
+
+#tituloR{
+
+    margin-left: 20px;
+    float: right;
+
+}
+
+#tituloI{
+    margin: 0px;
+    float: left;
+
+}
+
+.fondo{
+    background: rgb(207, 207, 207);
+}
+
+.tarjeta{
+    background: white;
+    color: rgb(104, 104, 104);
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 7px;    
+    box-shadow: 3px 3px 18px;
+    width: 60px;
+    height: 70px;   
+}
+
+.tarjeta h3{
+    color: black;
+}
+
+.tarjeta :hover{
+    box-shadow: black 5px 5px 20px;
+    transform: scale(1.5,1.5);
+
+}
